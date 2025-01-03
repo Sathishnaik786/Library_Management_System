@@ -10,7 +10,7 @@ Note: This is an extended version of Library Management System that can be found
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-## Prerequisites
+##  Prerequisites
 
 It is good to have basic knowledge of HTML, CSS, PHP and MySQL to understand this project.
 >We will use XAMP server as it has cross-platform support and we won't be needed to worry about the operating system support.
