@@ -16,7 +16,7 @@ It is good to have basic knowledge of HTML,CSS, PHP and MySQL to understand this
 >We will use XAMP server as it has cross-platform support and we won't be needed to worry about the operating system support.
 Download and install suitable XAMP server from this link - https://www.apachefriends.org/download.html
 
-## Setting up the environment
+# Setting up the environment
 
 - Download and extract project source code on your local machine.
 - Paste the source code in the htdocs folder. Default path will be here("C:\xampp\htdocs")
